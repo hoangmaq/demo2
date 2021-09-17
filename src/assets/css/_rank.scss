@@ -1,0 +1,66 @@
+.rank {
+    /* Frame 10763 */
+
+    .h3{
+        /* God of the ocean */
+
+
+        position: static;
+        width: 227px;
+        height: 42px;
+        left: 27.5px;
+        top: 0px;
+
+        font-family: Evil Empire;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 130%;
+        /* identical to box height, or 42px */
+
+        letter-spacing: 0.05em;
+
+        color: #25aee2;
+
+
+        /* Inside Auto Layout */
+
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 6px 0px;
+
+    }
+    position: absolute;
+    width: 446px;
+    height: 539.8px;
+    left: 761.57px;
+    top: 240px;
+    &_card {
+        /* Frame 10747 */
+
+
+        position: absolute;
+        width: 365px;
+        height: 508px;
+        left: 40.8px;
+        top: 0px;
+        /* Frame 10748 */
+
+
+        /* Auto Layout */
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+
+        /* Dark 1 */
+
+        background: #2B2C2B;
+        box-shadow: 0px 16px 25px 8px rgba(122, 191, 255, 0.15);
+        border-radius: 16px;
+        
+    }
+}
