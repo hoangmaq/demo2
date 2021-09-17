@@ -50,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },"engines": {
+    "node" : "15.0.1",
+    "npm":"7.5.4"
   }
 }
